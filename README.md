@@ -1,4 +1,4 @@
-# MultiAgent-LangGraph-OpenAI
+# MultiAgent: via LangGraph + OpenAI
 multi agent system MAS via LangGraph, using vendor-supplied LM
 
 This example uses the "LangGraph" agent framework. LangGraph is a low-level orchestration framework for building, managing, and deploying long-running, stateful agents. (https://langchain-ai.github.io/langgraph/)
