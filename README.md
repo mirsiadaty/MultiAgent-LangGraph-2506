@@ -10,10 +10,7 @@ The following shows the overall architecture of this MAS:
 * math agent
 * research agent
 
-<p align="center">
 ![lg34](https://github.com/user-attachments/assets/2052f46b-8241-49a1-91c5-df55c1ebeb68)
-</p>
-
 
 <br>
 <br>
