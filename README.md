@@ -12,6 +12,11 @@ The following shows the overall architecture of this MAS:
 
 ![lg34](https://github.com/user-attachments/assets/2052f46b-8241-49a1-91c5-df55c1ebeb68)
 
+<br>
+<br>
+
+## Building the agents
+
 The following excerpt shows code to build the three agents listed above.
 
 ```
