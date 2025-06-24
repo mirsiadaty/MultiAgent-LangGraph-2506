@@ -62,6 +62,7 @@ supervisor = create_supervisor(
 
 ```
 
+<br>
 
 The following is the final response from this MAS for the question "find US and New York state GDP in 2024. what % of US GDP was New York state?":
 
@@ -75,6 +76,11 @@ In 2024:
 - New York state's GDP is approximately 10.13% of the US GDP.
 99 Tue Jun 24 16:32:52 202
 ```
+
+<br>
+<br>
+
+## Detailed messaging among the agents
 
 The following is the detailed messaging history between the three agents, collaboratively solving the given question:
 
